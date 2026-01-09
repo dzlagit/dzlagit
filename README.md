@@ -1,11 +1,9 @@
 ## @dzlagit or AW.
 
-**Interested in the future of AI.**
+**Interested in the future of AI including how the cybersecurity world will intergrate it.**
 
-**Experience in python and [JS]([url](https://training.mammothinteractive.com/courses/enrolled/1957255)).**
+**Experience in python and [JS]([url](https://training.mammothinteractive.com/courses/enrolled/1957255)), C#.NET, Java and C.**
 
-**Learning Java, C, C# (with .NET) and more.**
+**Final Year Student at Liverpool Hope University studying BSc Computer Science**
 
-**Student at Liverpool Hope University studying BSc Computer Science**
-
-**Keen passion for knowledge in CTF and pentesting along side large machine learning models, with interest in cybersecurity field post graduation**
+**Keen passion for CTFs and pentesting along side large machine learning models, with interest in cybersecurity field post graduation**
