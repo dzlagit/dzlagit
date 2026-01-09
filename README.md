@@ -2,7 +2,7 @@
 
 **Interested in the future of AI including how the cybersecurity world will intergrate it.**
 
-**Experience in python and [JS]([url](https://training.mammothinteractive.com/courses/enrolled/1957255)), C#.NET, Java and C.**
+**Experience in python, [JS]([url](https://training.mammothinteractive.com/courses/enrolled/1957255)), C#.NET, Java and C.**
 
 **Final Year Student at Liverpool Hope University studying BSc Computer Science**
 
